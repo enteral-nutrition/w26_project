@@ -138,22 +138,22 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 
 #three-column #tbox1 {
 	float: left;
-	width: 384px;
+	width: 300px;
 	margin-right: 20px;
 }
 
 #three-column #tbox2 {
 	float: left;
-	width: 384px;
+	width: 300px;
 }
 
 #three-column #tbox3 {
 	float: right;
-	width: 384px;
+	width: 300px;
 }
 
 .box-style {
-	background: #3C342E;
+	background: #CBE0F5;
 }
 
 .box-style01

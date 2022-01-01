@@ -199,3 +199,64 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 	height: 50px;
 	background: url(images/img04.png) no-repeat center top;
 }
+
+/*
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #E5E6DD;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 13px;
+	color: #8A8985;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+	font-weight: 300;
+	color: #7D7764;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 2.8em;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 180%;
+}
+
+ul, ol {
+}
+
+a {
+	text-decoration: none;
+	color: #5BA689;
+}
+
+a:hover {
+}
+
+#wrapper {
+	overflow: hidden;
+	background: #F1F2E9;
+}
+
+.container {
+	width: 1200px;
+	margin: 0px auto;
+}

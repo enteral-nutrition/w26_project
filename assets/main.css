@@ -180,6 +180,10 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 	color: #300202;
 }
 
+h2:hover {
+background-color:#F6DCF9
+}
+
 .box-style h3 {
 	padding: 10px 0px;
 	letter-spacing: -1px;

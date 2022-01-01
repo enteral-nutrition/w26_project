@@ -177,7 +177,14 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 	padding: 10px 0px;
 	letter-spacing: -1px;
 	font-size: 26px;
-	color: #090A0A;
+	color: #300202;
+}
+
+.box-style h3 {
+	padding: 10px 0px;
+	letter-spacing: -1px;
+	font-size: 18px;
+	color: #042342;
 }
 
 .box-style .image {
